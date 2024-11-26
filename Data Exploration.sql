@@ -1,4 +1,4 @@
-USE Final_Test
+-- -- Exploratory Data Analysis
 SELECT *
 FROM supermarket_sales
 
